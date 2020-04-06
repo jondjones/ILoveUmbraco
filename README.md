@@ -14,7 +14,10 @@ This is an open-source repo.  If you would like to add something or correct a mi
 
 ## My Repos
 
-[Base Build](https://github.com/jondjones/JonDJones.Umbraco.BaseBuild): My Umbraco C# base build. I use this build as the bases of all new Greenfield projects I work on . Improved and updated overtime. It follows a TDD methodology and comes with plug-ins  
+
+[JonDJones.Umbraco.BaseBuild8](https://github.com/jondjones/JonDJones.Umbraco.BaseBuild8): Umbraco * Base Build.  I use this as a starting poting for all new Greenfield projects I work on. Improved and updated overtime. 
+
+[JonDJones.Umbraco.BaseBuild7](https://github.com/jondjones/JonDJones.Umbraco.BaseBuild7): My Umbraco C# base build. I use this build as the bases of all new Greenfield projects I work on . Improved and updated overtime. It follows a TDD methodology and comes with plug-ins  
 
 [Mega Menu](https://github.com/jondjones/JonDJones.com.Umbraco.MegaMenu/tree/d2ac56e0d5a57372135ba891febb545400f2ab36)
 
